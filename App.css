@@ -1,0 +1,21 @@
+.todo{
+display:flex;
+    margin: 10px 5px;
+
+    }
+input{
+display: table-row;
+height: 100%;
+width:50%;
+   
+}
+
+.kg-button{
+    min-width:80px;
+}
+.kg-row{
+display:table-row;
+    width:50%;
+    margin: 10px 5px;
+}
+
